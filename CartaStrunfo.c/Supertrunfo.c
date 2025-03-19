@@ -3,19 +3,12 @@
 int main(){
 
     char inicial = 'A';
-
     char cidade[20] = "Amazonas";
-
     char código[10] = "A02";
-
     int população = 2192863;
-
     float área = 6714480.17;
-
     float pib = 23;
-
     int turistico = 33;
-
 
 
 
@@ -37,6 +30,16 @@ int main(){
 
 
 
+
+
+
+
+
+
+
+
+
+return 0;
 
 
 }
