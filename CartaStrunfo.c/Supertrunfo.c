@@ -16,13 +16,13 @@ int main(){
 
     printf("Inicial do estado: %c\n", inicial);
 
-    printf("Código: %s\n", código);
+    printf("Codigo: %s\n", codigo);
 
     printf("Cidade: %s\n", cidade);
 
-    printf("População: %d \n", população);
+    printf("Populacao: %d \n", populacao);
 
-    printf("Área: %.2f km²\n", área);
+    printf("Area: %.2f km²\n", area);
 
     printf("Pib: %.2f Bilhões\n", pib);
 
